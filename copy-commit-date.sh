@@ -8,7 +8,8 @@ DATE=$(echo $1 | cut -d' ' -f2)
 OUT=schoolcases-$DATE
 
 
-#git checkout $HASH
+git checkout $HASH
+
 #echo "{\"date\":\"$DATE\",\"cases\":" > $OUT.json
 #cat schoolcases.json >> $OUT.json
 #echo "}" >> $OUT.json
