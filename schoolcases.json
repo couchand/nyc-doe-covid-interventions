@@ -1,41 +1,5 @@
 [
   {
-    "TotalCases": 2,
-    "StudentCases": 0,
-    "EmployeeCases": 2,
-    "nycsr_locationsiteid": "0ee2abc9-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_sitename": "P.S. 371 - Lillian L. Rashkis - K371 - K371 - 75K371 - 355 37 STREET",
-    "nycsr_building.nycsr_buildingid": "0de2abc9-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -74005168,
-    "nycsr_building.nycsr_latitude": 40654306,
-    "nycsr_building.nycsr_buildingname": "P.S. 371 (OLD 615) - BROOKLYN",
-    "nycsr_building.nycsr_address": "355 37 STREET"
-  },
-  {
-    "TotalCases": 1,
-    "StudentCases": 0,
-    "EmployeeCases": 1,
-    "nycsr_locationsiteid": "7dc280bd-31f4-ea11-b882-24ee9a37d45c",
-    "nycsr_sitename": "Manhattan Village Academy - M439 - M873 - 02M439 - 43 WEST 22 STREET",
-    "nycsr_building.nycsr_buildingid": "7ec280bd-31f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73991966,
-    "nycsr_building.nycsr_latitude": 40741963,
-    "nycsr_building.nycsr_buildingname": "MANHATTAN VILLAGE ACADEMY - M",
-    "nycsr_building.nycsr_address": "43 WEST 22 STREET"
-  },
-  {
-    "TotalCases": 2,
-    "StudentCases": 0,
-    "EmployeeCases": 2,
-    "nycsr_locationsiteid": "e62d6c32-ebf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "P.S. K771 - K771 - K329 - 75K771 - 2929 WEST 30 STREET",
-    "nycsr_building.nycsr_buildingid": "11a198c3-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73995770,
-    "nycsr_building.nycsr_latitude": 40574666,
-    "nycsr_building.nycsr_buildingname": "P.S. 329 - BROOKLYN",
-    "nycsr_building.nycsr_address": "2929 WEST 30 STREET"
-  },
-  {
     "TotalCases": 1,
     "StudentCases": 0,
     "EmployeeCases": 1,
@@ -48,51 +12,15 @@
     "nycsr_building.nycsr_address": "105 HAMILTON AVENUE"
   },
   {
-    "TotalCases": 2,
-    "StudentCases": 0,
-    "EmployeeCases": 2,
-    "nycsr_locationsiteid": "480b210d-33f4-ea11-b882-24ee9a37d45c",
-    "nycsr_sitename": "P.S. X811 - X811 - X084 - 75X811 - 1434 Longfellow Avenue",
-    "nycsr_building.nycsr_buildingid": "490b210d-33f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73886798,
-    "nycsr_building.nycsr_latitude": 40830552,
-    "nycsr_building.nycsr_buildingname": "P.S. 811 (OLD I84) - BRONX",
-    "nycsr_building.nycsr_address": "1434 Longfellow Avenue"
-  },
-  {
     "TotalCases": 1,
     "StudentCases": 0,
     "EmployeeCases": 1,
-    "nycsr_locationsiteid": "692b3eee-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_sitename": "Franklin Delano Roosevelt High School - K505 - K505 - 20K505 - 5800 20 AVENUE",
-    "nycsr_building.nycsr_buildingid": "682b3eee-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73982583,
-    "nycsr_building.nycsr_latitude": 40621299,
-    "nycsr_building.nycsr_buildingname": "FRANKLIN D. ROOSEVELT HS - K",
-    "nycsr_building.nycsr_address": "5800 20 AVENUE"
-  },
-  {
-    "TotalCases": 1,
-    "StudentCases": 1,
-    "EmployeeCases": 0,
-    "nycsr_locationsiteid": "26bef08c-32f4-ea11-b882-24ee9a37d45c",
-    "nycsr_sitename": "P.S. 199 Maurice A. Fitzgerald - Q199 - Q841 - 24Q199 - 48-25 37th Street",
-    "nycsr_building.nycsr_buildingid": "27bef08c-32f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73928640,
-    "nycsr_building.nycsr_latitude": 40739438,
-    "nycsr_building.nycsr_buildingname": "P.S. 199 ANNEX - QUEENS",
-    "nycsr_building.nycsr_address": "48-29 37th Street"
-  },
-  {
-    "TotalCases": 1,
-    "StudentCases": 1,
-    "EmployeeCases": 0,
-    "nycsr_locationsiteid": "8e69c231-32f4-ea11-b882-24ee9a37d45c",
-    "nycsr_sitename": "P.S. 199 Maurice A. Fitzgerald - Q199 - Q199 - 24Q199 - 39-20 48 Avenue",
-    "nycsr_building.nycsr_buildingid": "98977d2b-32f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73926081,
-    "nycsr_building.nycsr_latitude": 40739831,
-    "nycsr_building.nycsr_buildingname": "P.S. 199 - QUEENS",
-    "nycsr_building.nycsr_address": "39-20 48 Avenue"
+    "nycsr_locationsiteid": "7ef4a0ef-eaf6-ea11-b883-24ee9a37d459",
+    "nycsr_sitename": "P.S. K721 - Brooklyn Occupational Training Center - K721 - K722 - 75K721 - 64 AVENUE X",
+    "nycsr_building.nycsr_buildingid": "392f7d06-31f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73981925,
+    "nycsr_building.nycsr_latitude": 40588070,
+    "nycsr_building.nycsr_buildingname": "P.S. 721 OTC - BROOKLYN",
+    "nycsr_building.nycsr_address": "64 AVENUE X"
   }
 ]
