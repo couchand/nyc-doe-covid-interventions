@@ -1,26 +1,74 @@
 [
   {
     "TotalCases": 1,
-    "StudentCases": 0,
-    "EmployeeCases": 1,
-    "nycsr_locationsiteid": "5b5b4cd6-32f4-ea11-b882-24ee9a37d45c",
-    "nycsr_sitename": "Curtis High School - R450 - R450 - 31R450 - 105 HAMILTON AVENUE",
-    "nycsr_building.nycsr_buildingid": "5a5b4cd6-32f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -74082149,
-    "nycsr_building.nycsr_latitude": 40645436,
-    "nycsr_building.nycsr_buildingname": "CURTIS HS - S. I.",
-    "nycsr_building.nycsr_address": "105 HAMILTON AVENUE"
+    "StudentCases": 1,
+    "EmployeeCases": 0,
+    "nycsr_locationsiteid": "782f77fa-31f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "P.S. 069 Jackson Heights - Q069 - Q069 - 30Q069 - 77-02 37 AVENUE",
+    "nycsr_building.nycsr_buildingid": "682f77fa-31f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73888457,
+    "nycsr_building.nycsr_latitude": 40748804,
+    "nycsr_building.nycsr_buildingname": "P.S. 69 - QUEENS",
+    "nycsr_building.nycsr_address": "77-02 37 AVENUE"
+  },
+  {
+    "TotalCases": 3,
+    "StudentCases": 3,
+    "EmployeeCases": 0,
+    "nycsr_locationsiteid": "52767649-31f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "P.S. 041 Greenwich Village - M041 - M041 - 02M041 - 116 WEST 11 STREET",
+    "nycsr_building.nycsr_buildingid": "53767649-31f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73999094,
+    "nycsr_building.nycsr_latitude": 40735450,
+    "nycsr_building.nycsr_buildingname": "P.S. 41 - MANHATTAN",
+    "nycsr_building.nycsr_address": "116 WEST 11 STREET"
   },
   {
     "TotalCases": 1,
     "StudentCases": 0,
     "EmployeeCases": 1,
-    "nycsr_locationsiteid": "7ef4a0ef-eaf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "P.S. K721 - Brooklyn Occupational Training Center - K721 - K722 - 75K721 - 64 AVENUE X",
-    "nycsr_building.nycsr_buildingid": "392f7d06-31f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73981925,
-    "nycsr_building.nycsr_latitude": 40588070,
-    "nycsr_building.nycsr_buildingname": "P.S. 721 OTC - BROOKLYN",
-    "nycsr_building.nycsr_address": "64 AVENUE X"
+    "nycsr_locationsiteid": "63ffcc6e-33f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "The Bronx High School of Science - X445 - X445 - 10X445 - 75 WEST 205 STREET",
+    "nycsr_building.nycsr_buildingid": "64ffcc6e-33f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73889011,
+    "nycsr_building.nycsr_latitude": 40879958,
+    "nycsr_building.nycsr_buildingname": "BRONX HS OF SCIENCE - X",
+    "nycsr_building.nycsr_address": "75 WEST 205 STREET"
+  },
+  {
+    "TotalCases": 1,
+    "StudentCases": 0,
+    "EmployeeCases": 1,
+    "nycsr_locationsiteid": "bbbfa431-33f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "The Laboratory School of Finance and Technology: X223 - X223 - X149 - 07X223 - 360 EAST 145 STREET",
+    "nycsr_building.nycsr_buildingid": "bcbfa431-33f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73920851,
+    "nycsr_building.nycsr_latitude": 40813612,
+    "nycsr_building.nycsr_buildingname": "J.H.S. 149 - BRONX",
+    "nycsr_building.nycsr_address": "360 EAST 145 STREET"
+  },
+  {
+    "TotalCases": 1,
+    "StudentCases": 0,
+    "EmployeeCases": 1,
+    "nycsr_locationsiteid": "b5b36d80-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "P.S. 179 Kensington - K179 - K179 - 20K179 - 202 AVENUE C",
+    "nycsr_building.nycsr_buildingid": "13d1de79-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73977260,
+    "nycsr_building.nycsr_latitude": 40640127,
+    "nycsr_building.nycsr_buildingname": "P.S. 179 - BROOKLYN",
+    "nycsr_building.nycsr_address": "202 AVENUE C"
+  },
+  {
+    "TotalCases": 1,
+    "StudentCases": 0,
+    "EmployeeCases": 1,
+    "nycsr_locationsiteid": "aefc24e8-31f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "P.S. 021 Edward Hart - Q021 - Q021 - 25Q021 - 147-36 26 AVENUE",
+    "nycsr_building.nycsr_buildingid": "adfc24e8-31f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73818581,
+    "nycsr_building.nycsr_latitude": 40774134,
+    "nycsr_building.nycsr_buildingname": "P.S. 21 - QUEENS",
+    "nycsr_building.nycsr_address": "147-36 26 AVENUE"
   }
 ]
