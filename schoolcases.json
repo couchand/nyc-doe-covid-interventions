@@ -3,12 +3,24 @@
     "TotalCases": 1,
     "StudentCases": 0,
     "EmployeeCases": 1,
-    "nycsr_locationsiteid": "08cf496e-31f4-ea11-b882-24ee9a37d45c",
-    "nycsr_sitename": "P.S. 130 Hernando De Soto - M130 - M130 - 02M130 - 143 BAXTER STREET",
-    "nycsr_building.nycsr_buildingid": "09cf496e-31f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73998326,
-    "nycsr_building.nycsr_latitude": 40718660,
-    "nycsr_building.nycsr_buildingname": "P.S. 130 - MANHATTAN",
-    "nycsr_building.nycsr_address": "143 BAXTER STREET"
+    "nycsr_locationsiteid": "76b50aa5-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "P.S. 264 Bay Ridge Elementary School For The Arts - K264 - K264 - 20K264 - 371 89th Street",
+    "nycsr_building.nycsr_buildingid": "74b50aa5-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -74029444,
+    "nycsr_building.nycsr_latitude": 40621025,
+    "nycsr_building.nycsr_buildingname": "PS 264 BAY RIDGE ELEM SCL FOR THE ARTS - BROOKLYN",
+    "nycsr_building.nycsr_address": "371 89th Street"
+  },
+  {
+    "TotalCases": 1,
+    "StudentCases": 0,
+    "EmployeeCases": 1,
+    "nycsr_locationsiteid": "10ba8b86-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "P.S. 205 Clarion - K205 - K205 - 20K205 - 6701 20 AVENUE",
+    "nycsr_building.nycsr_buildingid": "11ba8b86-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73986792,
+    "nycsr_building.nycsr_latitude": 40614737,
+    "nycsr_building.nycsr_buildingname": "P.S. 205 - BROOKLYN",
+    "nycsr_building.nycsr_address": "6701 20 AVENUE"
   }
 ]
