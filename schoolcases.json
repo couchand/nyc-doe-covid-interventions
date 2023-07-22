@@ -3,48 +3,12 @@
     "TotalCases": 1,
     "StudentCases": 0,
     "EmployeeCases": 1,
-    "nycsr_locationsiteid": "ded27c6d-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_sitename": "P.S. 373 - Brooklyn Transition Center - K373 - K148 - 75K373 - 185 ELLERY STREET",
-    "nycsr_building.nycsr_buildingid": "dcd27c6d-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73945211,
-    "nycsr_building.nycsr_latitude": 40699214,
-    "nycsr_building.nycsr_buildingname": "P.S. 373 (OLD P148) - BROOKLYN",
-    "nycsr_building.nycsr_address": "185 ELLERY STREET"
-  },
-  {
-    "TotalCases": 1,
-    "StudentCases": 1,
-    "EmployeeCases": 0,
-    "nycsr_locationsiteid": "5ef4a0ef-eaf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "P.S. K140 - K140 - K258 - 75K140 - 141 MACON STREET",
-    "nycsr_building.nycsr_buildingid": "b183ff9e-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73945600,
-    "nycsr_building.nycsr_latitude": 40681920,
-    "nycsr_building.nycsr_buildingname": "I.S. 258 - BROOKLYN",
-    "nycsr_building.nycsr_address": "141 MACON STREET"
-  },
-  {
-    "TotalCases": 1,
-    "StudentCases": 0,
-    "EmployeeCases": 1,
-    "nycsr_locationsiteid": "03af1f69-ebf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "P.S. M094 - M094 - M338 - 75M094 - 525 WEST 44TH STREET",
-    "nycsr_building.nycsr_buildingid": "dfe0838c-31f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73995825,
-    "nycsr_building.nycsr_latitude": 40761487,
-    "nycsr_building.nycsr_buildingname": "P.S. 51 ELIAS HOWE - MANHATTAN",
-    "nycsr_building.nycsr_address": "525 WEST 44TH STREET"
-  },
-  {
-    "TotalCases": 1,
-    "StudentCases": 1,
-    "EmployeeCases": 0,
-    "nycsr_locationsiteid": "6c41e65b-31f4-ea11-b882-24ee9a37d45c",
-    "nycsr_sitename": "The Lexington Academy - M072 - M072 - 04M072 - 131 EAST 104 STREET",
-    "nycsr_building.nycsr_buildingid": "6d41e65b-31f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73947450,
-    "nycsr_building.nycsr_latitude": 40791444,
-    "nycsr_building.nycsr_buildingname": "P.S. 72 - MANHATTAN",
-    "nycsr_building.nycsr_address": "131 EAST 104 STREET"
+    "nycsr_locationsiteid": "4e9d7c62-33f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "Pelham Preparatory Academy - X542 - X415 - 11X542 - 925 ASTOR AVENUE",
+    "nycsr_building.nycsr_buildingid": "439d7c62-33f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73860729,
+    "nycsr_building.nycsr_latitude": 40860443,
+    "nycsr_building.nycsr_buildingname": "CHRISTOPHER COLUMBUS HS - X",
+    "nycsr_building.nycsr_address": "925 ASTOR AVENUE"
   }
 ]
