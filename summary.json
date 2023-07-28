@@ -1,6 +1,6 @@
 [
   {
-    "title": "Reported COVID Cases: July 24, 2023 as of 6 PM",
+    "title": "Reported COVID Cases: July 27, 2023 as of 6 PM",
     "header": [
       "Total",
       "Students",
@@ -8,14 +8,14 @@
     ],
     "rows": [
       [
-        "8",
-        "3",
+        "5",
+        "0",
         "5"
       ]
     ]
   },
   {
-    "title": "Cumulative Reported Cases: September 08, 2022 - July 24, 2023 at 6 PM",
+    "title": "Cumulative Reported Cases: September 08, 2022 - July 27, 2023 at 6 PM",
     "header": [
       "Total",
       "Students",
@@ -23,9 +23,9 @@
     ],
     "rows": [
       [
-        "83,799",
-        "49,989",
-        "33,810"
+        "83,820",
+        "49,990",
+        "33,830"
       ]
     ]
   }
