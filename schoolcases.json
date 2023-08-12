@@ -1,20 +1,20 @@
 [
   {
-    "TotalCases": 2,
-    "StudentCases": 0,
-    "EmployeeCases": 2,
-    "nycsr_locationsiteid": "ab32c3fb-eaf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "P.S. Q224 - Q224 - Q186 - 75Q224 - 252-12 72 AVENUE",
-    "nycsr_building.nycsr_buildingid": "67977d2b-32f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73721594,
-    "nycsr_building.nycsr_latitude": 40749556,
-    "nycsr_building.nycsr_buildingname": "P.S. 186 - QUEENS",
-    "nycsr_building.nycsr_address": "252-12 72 AVENUE"
-  },
-  {
     "TotalCases": 1,
     "StudentCases": 0,
     "EmployeeCases": 1,
+    "nycsr_locationsiteid": "fb8052e9-ebf6-ea11-b883-24ee9a37d459",
+    "nycsr_sitename": "P.S. X010 - X010 - X060 - 75X010 - 888 Rev J A Polite Ave",
+    "nycsr_building.nycsr_buildingid": "7436d900-33f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73898399,
+    "nycsr_building.nycsr_latitude": 40820108,
+    "nycsr_building.nycsr_buildingname": "P.S. 333 - BRONX",
+    "nycsr_building.nycsr_address": "888 Rev J A Polite Ave"
+  },
+  {
+    "TotalCases": 2,
+    "StudentCases": 2,
+    "EmployeeCases": 0,
     "nycsr_locationsiteid": "f7d27c6d-30f4-ea11-b882-24ee9a37d45c",
     "nycsr_sitename": "P.S. 153 Homecrest - K153 - K153 - 21K153 - 1970 HOMECREST AVENUE",
     "nycsr_building.nycsr_buildingid": "f8d27c6d-30f4-ea11-b882-24ee9a37d45c",
@@ -24,75 +24,27 @@
     "nycsr_building.nycsr_address": "1970 HOMECREST AVENUE"
   },
   {
-    "TotalCases": 1,
-    "StudentCases": 0,
-    "EmployeeCases": 1,
-    "nycsr_locationsiteid": "bf8fd48d-ebf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "P.S. Q993 - Q993 - Q072 - 75Q993 - 133-25 GUY R BREWER BOULEVARD",
-    "nycsr_building.nycsr_buildingid": "852f77fa-31f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73775643,
-    "nycsr_building.nycsr_latitude": 40675014,
-    "nycsr_building.nycsr_buildingname": "J.H.S. 72 - QUEENS",
-    "nycsr_building.nycsr_address": "133-25 GUY R BREWER BOULEVARD"
-  },
-  {
-    "TotalCases": 1,
-    "StudentCases": 0,
-    "EmployeeCases": 1,
-    "nycsr_locationsiteid": "b7ab074a-33f4-ea11-b882-24ee9a37d45c",
-    "nycsr_sitename": "P.S./M.S. 194 - X194 - X194 - 11X194 - 2365 WATERBURY AVENUE",
-    "nycsr_building.nycsr_buildingid": "b6ab074a-33f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73846594,
-    "nycsr_building.nycsr_latitude": 40835410,
-    "nycsr_building.nycsr_buildingname": "P.S./I.S. 194 - BRONX",
-    "nycsr_building.nycsr_address": "2365 WATERBURY AVENUE"
-  },
-  {
     "TotalCases": 2,
-    "StudentCases": 1,
-    "EmployeeCases": 1,
-    "nycsr_locationsiteid": "ad32c3fb-eaf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "P.S. Q993 - Q993 - Q191 - 75Q993 - 85-15 258 STREET",
-    "nycsr_building.nycsr_buildingid": "7b977d2b-32f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73708617,
-    "nycsr_building.nycsr_latitude": 40734266,
-    "nycsr_building.nycsr_buildingname": "P.S. 191 - QUEENS",
-    "nycsr_building.nycsr_address": "85-15 258 STREET"
-  },
-  {
-    "TotalCases": 1,
-    "StudentCases": 1,
-    "EmployeeCases": 0,
-    "nycsr_locationsiteid": "8f7e21a6-ebf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "The Riverview School - Q277 - Q311 - 75Q277 - 98-11 44TH AVENUE",
-    "nycsr_building.nycsr_buildingid": "36c73b4a-32f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73865239,
-    "nycsr_building.nycsr_latitude": 40745920,
-    "nycsr_building.nycsr_buildingname": "P.S./ I.S. 311 - QUEENS",
-    "nycsr_building.nycsr_address": "98-11 44TH AVENUE"
+    "StudentCases": 0,
+    "EmployeeCases": 2,
+    "nycsr_locationsiteid": "747eda5c-ebf6-ea11-b883-24ee9a37d459",
+    "nycsr_sitename": "P.S. M721 - Manhattan Occupational Training Center - M721 - M047 - 75M721 - 223 EAST 23 STREET",
+    "nycsr_building.nycsr_buildingid": "d0c88e4f-31f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73981329,
+    "nycsr_building.nycsr_latitude": 40738374,
+    "nycsr_building.nycsr_buildingname": "J.H.S. 47 (SCH FOR THE DEAF) - M",
+    "nycsr_building.nycsr_address": "223 EAST 23 STREET"
   },
   {
     "TotalCases": 1,
     "StudentCases": 0,
     "EmployeeCases": 1,
-    "nycsr_locationsiteid": "db8fd20d-ebf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "P.S. K771 - K771 - K014 - 75K771 - 2424 BATCHELDER STREET",
-    "nycsr_building.nycsr_buildingid": "eef57030-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73938107,
-    "nycsr_building.nycsr_latitude": 40593232,
-    "nycsr_building.nycsr_buildingname": "I.S. 14 - BROOKLYN",
-    "nycsr_building.nycsr_address": "2424 BATCHELDER STREET"
-  },
-  {
-    "TotalCases": 1,
-    "StudentCases": 0,
-    "EmployeeCases": 1,
-    "nycsr_locationsiteid": "a3778cb8-ebf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "John F. Kennedy Jr. School - Q721 - Q585 - 75Q721 - 54-40 74TH STREET",
-    "nycsr_building.nycsr_buildingid": "34b4977a-32f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73887909,
-    "nycsr_building.nycsr_latitude": 40729104,
-    "nycsr_building.nycsr_buildingname": "MASPETH HIGH SCHOOL - QUEENS",
-    "nycsr_building.nycsr_address": "54-40 74TH STREET"
+    "nycsr_locationsiteid": "6b395a2c-ebf6-ea11-b883-24ee9a37d459",
+    "nycsr_sitename": "P.S. K140 - K140 - K304 - 75K140 - 280 HART STREET",
+    "nycsr_building.nycsr_buildingid": "53de5eb7-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73941278,
+    "nycsr_building.nycsr_latitude": 40693654,
+    "nycsr_building.nycsr_buildingname": "P.S. 304 - BROOKLYN",
+    "nycsr_building.nycsr_address": "280 HART STREET"
   }
 ]
