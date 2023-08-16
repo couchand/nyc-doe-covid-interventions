@@ -3,48 +3,12 @@
     "TotalCases": 1,
     "StudentCases": 0,
     "EmployeeCases": 1,
-    "nycsr_locationsiteid": "fb8052e9-ebf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "P.S. X010 - X010 - X060 - 75X010 - 888 Rev J A Polite Ave",
-    "nycsr_building.nycsr_buildingid": "7436d900-33f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73898399,
-    "nycsr_building.nycsr_latitude": 40820108,
-    "nycsr_building.nycsr_buildingname": "P.S. 333 - BRONX",
-    "nycsr_building.nycsr_address": "888 Rev J A Polite Ave"
-  },
-  {
-    "TotalCases": 2,
-    "StudentCases": 2,
-    "EmployeeCases": 0,
-    "nycsr_locationsiteid": "f7d27c6d-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_sitename": "P.S. 153 Homecrest - K153 - K153 - 21K153 - 1970 HOMECREST AVENUE",
-    "nycsr_building.nycsr_buildingid": "f8d27c6d-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73960027,
-    "nycsr_building.nycsr_latitude": 40601179,
-    "nycsr_building.nycsr_buildingname": "P.S. 153 - BROOKLYN",
-    "nycsr_building.nycsr_address": "1970 HOMECREST AVENUE"
-  },
-  {
-    "TotalCases": 2,
-    "StudentCases": 0,
-    "EmployeeCases": 2,
-    "nycsr_locationsiteid": "747eda5c-ebf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "P.S. M721 - Manhattan Occupational Training Center - M721 - M047 - 75M721 - 223 EAST 23 STREET",
-    "nycsr_building.nycsr_buildingid": "d0c88e4f-31f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73981329,
-    "nycsr_building.nycsr_latitude": 40738374,
-    "nycsr_building.nycsr_buildingname": "J.H.S. 47 (SCH FOR THE DEAF) - M",
-    "nycsr_building.nycsr_address": "223 EAST 23 STREET"
-  },
-  {
-    "TotalCases": 1,
-    "StudentCases": 0,
-    "EmployeeCases": 1,
-    "nycsr_locationsiteid": "6b395a2c-ebf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "P.S. K140 - K140 - K304 - 75K140 - 280 HART STREET",
-    "nycsr_building.nycsr_buildingid": "53de5eb7-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73941278,
-    "nycsr_building.nycsr_latitude": 40693654,
-    "nycsr_building.nycsr_buildingname": "P.S. 304 - BROOKLYN",
-    "nycsr_building.nycsr_address": "280 HART STREET"
+    "nycsr_locationsiteid": "0fe63126-ebf6-ea11-b883-24ee9a37d459",
+    "nycsr_sitename": "P.S. K721 - Brooklyn Occupational Training Center - K721 - K231 - 75K721 - 360 36 STREET",
+    "nycsr_building.nycsr_buildingid": "fb21d292-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -74005168,
+    "nycsr_building.nycsr_latitude": 40654306,
+    "nycsr_building.nycsr_buildingname": "P.S. 231 - BROOKLYN",
+    "nycsr_building.nycsr_address": "360 36 STREET"
   }
 ]
