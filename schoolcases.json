@@ -3,12 +3,24 @@
     "TotalCases": 1,
     "StudentCases": 0,
     "EmployeeCases": 1,
-    "nycsr_locationsiteid": "0fe63126-ebf6-ea11-b883-24ee9a37d459",
-    "nycsr_sitename": "P.S. K721 - Brooklyn Occupational Training Center - K721 - K231 - 75K721 - 360 36 STREET",
-    "nycsr_building.nycsr_buildingid": "fb21d292-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -74005168,
-    "nycsr_building.nycsr_latitude": 40654306,
-    "nycsr_building.nycsr_buildingname": "P.S. 231 - BROOKLYN",
-    "nycsr_building.nycsr_address": "360 36 STREET"
+    "nycsr_locationsiteid": "5d07e99e-31f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "Stuyvesant High School - M475 - M477 - 02M475 - 345 CHAMBERS STREET",
+    "nycsr_building.nycsr_buildingid": "5c07e99e-31f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -74013921,
+    "nycsr_building.nycsr_latitude": 40718025,
+    "nycsr_building.nycsr_buildingname": "STUYVESANT HS (NEW) - MANHATTAN",
+    "nycsr_building.nycsr_address": "345 CHAMBERS STREET"
+  },
+  {
+    "TotalCases": 1,
+    "StudentCases": 0,
+    "EmployeeCases": 1,
+    "nycsr_locationsiteid": "b6fab455-31f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "University Neighborhood Middle School - M332 - M056 - 01M332 - 220 HENRY STREET",
+    "nycsr_building.nycsr_buildingid": "affab455-31f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73986051,
+    "nycsr_building.nycsr_latitude": 40713362,
+    "nycsr_building.nycsr_buildingname": "J.H.S. 56 - MANHATTAN",
+    "nycsr_building.nycsr_address": "220 HENRY STREET"
   }
 ]
