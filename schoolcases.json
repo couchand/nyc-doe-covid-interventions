@@ -1,14 +1,50 @@
 [
   {
+    "TotalCases": 4,
+    "StudentCases": 3,
+    "EmployeeCases": 1,
+    "nycsr_locationsiteid": "1de85c61-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "Achievement First East New York Charter School - K358 - K111 - 84K358 - 35 STARR STREET",
+    "nycsr_building.nycsr_buildingid": "18e85c61-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73927938,
+    "nycsr_building.nycsr_latitude": 40700810,
+    "nycsr_building.nycsr_buildingname": "I.S. 111 - BROOKLYN",
+    "nycsr_building.nycsr_address": "35 STARR STREET"
+  },
+  {
     "TotalCases": 1,
     "StudentCases": 0,
     "EmployeeCases": 1,
-    "nycsr_locationsiteid": "28ebaa73-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_sitename": "P.S. 158 Warwick - K158 - K158 - 19K158 - 400 ASHFORD STREET",
-    "nycsr_building.nycsr_buildingid": "29ebaa73-30f4-ea11-b882-24ee9a37d45c",
-    "nycsr_building.nycsr_longitude": -73885214,
-    "nycsr_building.nycsr_latitude": 40672590,
-    "nycsr_building.nycsr_buildingname": "P.S. 158 - BROOKLYN",
-    "nycsr_building.nycsr_address": "400 ASHFORD STREET"
+    "nycsr_locationsiteid": "418dbfcf-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "Kingsborough Early College School - K468 - K400 - 21K468 - 2630 BENSON AVENUE",
+    "nycsr_building.nycsr_buildingid": "3a8dbfcf-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73986313,
+    "nycsr_building.nycsr_latitude": 40593028,
+    "nycsr_building.nycsr_buildingname": "Lafayette Educational Campus",
+    "nycsr_building.nycsr_address": "2630 BENSON AVENUE"
+  },
+  {
+    "TotalCases": 1,
+    "StudentCases": 0,
+    "EmployeeCases": 1,
+    "nycsr_locationsiteid": "692b3eee-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_sitename": "Franklin Delano Roosevelt High School - K505 - K505 - 20K505 - 5800 20 AVENUE",
+    "nycsr_building.nycsr_buildingid": "682b3eee-30f4-ea11-b882-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73982583,
+    "nycsr_building.nycsr_latitude": 40621299,
+    "nycsr_building.nycsr_buildingname": "FRANKLIN D. ROOSEVELT HS - K",
+    "nycsr_building.nycsr_address": "5800 20 AVENUE"
+  },
+  {
+    "TotalCases": 1,
+    "StudentCases": 0,
+    "EmployeeCases": 1,
+    "nycsr_locationsiteid": "24457b28-e21e-eb11-b885-24ee9a37d45c",
+    "nycsr_sitename": "John F. Kennedy Jr. School - Q721 - Q269 - 75Q721 - 86-37 53rd Avenue",
+    "nycsr_building.nycsr_buildingid": "25457b28-e21e-eb11-b885-24ee9a37d45c",
+    "nycsr_building.nycsr_longitude": -73878711,
+    "nycsr_building.nycsr_latitude": 40735875,
+    "nycsr_building.nycsr_buildingname": "P.S./I.S. 269 - QUEENS",
+    "nycsr_building.nycsr_address": "86-37 53rd Avenue"
   }
 ]
