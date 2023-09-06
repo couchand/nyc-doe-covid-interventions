@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Reported COVID Cases: September 05, 2023 as of 6 PM",
+    "header": [
+      "Total",
+      "Students",
+      "Staff"
+    ],
+    "rows": [
+      [
+        "21",
+        "3",
+        "18"
+      ]
+    ]
+  },
+  {
+    "title": "Cumulative Reported Cases: September 08, 2022 - September 05, 2023 at 6 PM",
+    "header": [
+      "Total",
+      "Students",
+      "Staff"
+    ],
+    "rows": [
+      [
+        "84,009",
+        "50,023",
+        "33,986"
+      ]
+    ]
+  }
+]
