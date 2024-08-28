@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Reported COVID Cases: April 14, 2024 as of 6 PM",
+    "header": [
+      "Total",
+      "Students",
+      "Staff"
+    ],
+    "rows": [
+      [
+        "0",
+        "0",
+        "0"
+      ]
+    ]
+  },
+  {
+    "title": "Cumulative Reported Cases: September 08, 2022 - April 14, 2024 at 6 PM",
+    "header": [
+      "Total",
+      "Students",
+      "Staff"
+    ],
+    "rows": [
+      [
+        "85,503",
+        "50,762",
+        "34,741"
+      ]
+    ]
+  }
+]
